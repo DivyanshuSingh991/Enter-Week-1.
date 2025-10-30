@@ -9,3 +9,25 @@ Image classification using TensorFlow / Teachable Machine
 Classifies waste into recyclable and non-recyclable categories
 Can be integrated into a Flutter mobile app or web interface
 Lightweight model suitable for real-time predictions
+
+# Tech Stack
+**Machine Learning:** TensorFlow / Keras / Teachable Machine
+**Programming Language:** Python
+**Frontend (Optional):** Flutter
+**Libraries:** NumPy, Pillow, TensorFlow Lite
+
+# How It Works
+- Upload or capture an image of waste.
+- The trained model predicts the category (Plastic, Paper, Metal, Organic).
+- Displays the classification result with confidence score.
+- Optionally, suggests recycling instructions for recyclable items.
+
+# Impact
+- This project contributes to sustainability by:
+- Encouraging eco-friendly waste segregation
+- Reducing landfill pollution
+- Helping in smarter recycling management
+
+
+Reducing landfill pollu
+Helping in smarter recycling management
